@@ -13,3 +13,7 @@ Para isso, crie uma conta na IBM Quantum Platform (https://quantum.ibm.com/). In
 #### https://drive.google.com/drive/folders/15dsGyEeDWbrR268lTc6S-Et531BGVeLy?usp=sharing
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
+
+### Nosso canal de comunicação simulado
+Iremos utilizar um drive aberto para que cada grupo disponibilize 
+#### https://drive.google.com/drive/folders/15dsGyEeDWbrR268lTc6S-Et531BGVeLy?usp=sharing
