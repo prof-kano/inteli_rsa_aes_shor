@@ -1,7 +1,5 @@
 ## Requisitos
 
-### Instalação - Python
-
 ### • Instalação - Qiskit
 <p align="justify">
 A biblioteca Qiskit, um projeto da IBM, é uma das soluções adotadas para o desenvolvimento das atividades dessa disciplina.
