@@ -3,10 +3,11 @@
 ### Instalação - Python
 
 ###  Instalação - Qiskit
-
+<p align="justify">
 A biblioteca Qiskit, um projeto da IBM, é uma das soluções adotadas para o desenvolvimento das atividades dessa disciplina.
 
 Para isso, crie uma conta na IBM Quantum Platform (https://quantum.ibm.com/). Instale a biblioteca seguindo os passos do seguinte link oficial (https://docs.quantum.ibm.com/guides/install-qiskit), ou, seguindo este vídeo (https://www.youtube.com/watch?v=dZWz4Gs_BuI). Você poderá simular a execução de algoritmos quânticos na sua própria máquina ou submetê-los para execução nos computadores quânticos disponibilizados pela IBM (para isso utilize o token de API disponibilizado na sua conta). Have fun!
+</p>
 
 ###  Instalação - 
 
