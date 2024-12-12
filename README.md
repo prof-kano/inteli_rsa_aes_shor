@@ -14,9 +14,10 @@ Para isso, crie uma conta na IBM Quantum Platform (https://quantum.ibm.com/). In
 ### • Instalação - PyCryptoDome
 
 Instale a biblioteca de criptografia através da linha da seguinte comando pip no seu ambiente:
-...
-pip install pycryptodome 
-...
+
+```
+pip install pycryptodome
+```
 
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
