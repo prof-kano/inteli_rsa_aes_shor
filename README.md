@@ -1,5 +1,5 @@
 ## Descrição
-
+Nesse laboratório aprenderemos como o Algoritmo de Shor 
 
 
 ## Requisitos
