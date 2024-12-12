@@ -39,10 +39,13 @@ _𝜙(n)_ que é um pouco menos de 16 bits neste exemplo.
 
 • Uma visão geral dos tamanhos de chaves RSA comumente usados:
 
-1024 bits: Anteriormente comum, agora é considerado inseguro contra adversários bem financiados ou contra o progresso em computação quântica e deve ser evitado.
-2048 bits: Considerado seguro para uso atual e a escolha padrão para a maioria das aplicações. Espera-se que ofereça segurança suficiente até pelo menos 2030.
-3072 bits: Oferece uma segurança mais robusta e é recomendado para organizações que requerem um nível de segurança mais alto.
-4096 bits: Oferece ainda mais segurança e é usado por aqueles que desejam se proteger contra adversários extremamente capazes ou para proteger informações sensíveis por um longo período.
+1024 bits
+
+2048 bits
+
+3072 bits
+
+4096 bits
 
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
