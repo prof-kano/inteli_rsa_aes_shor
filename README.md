@@ -63,9 +63,11 @@ Não será tão fácil como importar uma simples função. Você verá a dificul
 
 Spoiler - Discutir em Aula
 
-### • OPORTUNIDADE DE FAZER A DIFERENÇA
+https://docs.quantum.ibm.com/api/qiskit/0.25/qiskit.algorithms.Shor
 
 https://github.com/qiskit-community/qiskit-algorithms
+
+### • OPORTUNIDADE DE FAZER A DIFERENÇA
 
 ### • QUEBRA PADRÃO e CONCLUSÃO
 
