@@ -21,8 +21,9 @@ Instale a biblioteca de criptografia através da linha da seguinte comando pip n
 pip install pycryptodome
 ```
 
-## Ideia Principal do Ataque
+## Ideia Principal do Ataque 
 
+O módulo público _n_ é igual a um número primo _p_ vezes um número primo _q_. Se você conhece _p_ e _q_ (e _e_ da chave pública), poderá determinar a chave privada, quebrando assim a criptografia. No entanto, fatorar um _n_ grande é muito difícil sem o uso de um computador quântico potente. Um _n_ pequeno, talvez, possa ser fatorado através do Algoritmo de Shor em um computador quântico disponível agora. Vamos descobrir! 
 
 
 
