@@ -53,6 +53,8 @@ Acesse e copie a pasta "public" disponibilizada por cada grupo.
 O programa Carlos.py apresenta uma versão incompleta do ataque descrito na imagem do fluxo. Tente usar ou implementar função de fatoração usando o algoritmo de Shor da biblioteca do Qiskit ou similar. 
 Com isso, você conseguirá recuperar a chave privada do RSA e, consequentemente, a chave do AES. Tendo acesso a mensagem secreta dos outros grupos. 
 
+https://www.youtube.com/watch?v=mAHC1dWKNYE&list=PLkzEMll7nz0WNdePloNqT0YkGIO7iQrig
+
 ### • DICA DO CTF
  
 Não será tão fácil como importar uma simples função. Você verá a dificuldade de lidar com assuntos do estado da arte. 
