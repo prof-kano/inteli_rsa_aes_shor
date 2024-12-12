@@ -1,7 +1,7 @@
 ## Introdução
 Este repositório contém os materiais necessários para a execução da atividade prática do dia 11/12/2024 da disciplina optativa de Quantum Safe do Instituto de Tecnologia e Liderança (Inteli).
 
-Nesse laboratório aprenderemos como o Algoritmo de Shor 
+Nesse laboratório aprenderemos na prática como o Algoritmo de Shor pode impactar algoritmos de criptografia de assimétrica. 
 
 
 ## Requisitos
