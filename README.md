@@ -57,5 +57,7 @@ Com isso, você conseguirá recuperar a chave privada do RSA e, consequentemente
  
 Não será tão fácil como importar uma simples função. Você verá a dificuldade de lidar com assuntos do estado da arte. 
 
+### • INTERVALO DIFICULDADES ENCONTRADAS
 
+### • QUEBRA PADRÃO e CONCLUSÃO
 
