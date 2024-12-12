@@ -61,6 +61,8 @@ Não será tão fácil como importar uma simples função. Você verá a dificul
 
 ### • INTERVALO DISCUSSÃO DE DIFICULDADES ENCONTRADAS
 
+Spoiler - Discutir em Aula
+
 ### • OPORTUNIDADE DE FAZER A DIFERENÇA
 
 https://github.com/qiskit-community/qiskit-algorithms
