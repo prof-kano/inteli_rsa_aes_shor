@@ -5,7 +5,6 @@ Este repositório contém os materiais necessários para a execução da ativida
 
 Nesse laboratório aprenderemos na prática como o Algoritmo de Shor pode impactar algoritmos de criptografia assimétrica. 
 
-
 ## Requisitos
 
 ### • Instalação - Qiskit
@@ -70,7 +69,12 @@ Acesse e copie a pasta "public" disponibilizada por cada grupo.
 
 ### • CTF
 
-O programa Carlos.py apresenta uma versão incompleta do ataque descrito na imagem do fluxo. Implemente a função de fatoração usando o algoritmo de Shor da biblioteca do Qiskit.
+O programa Carlos.py apresenta uma versão incompleta do ataque descrito na imagem do fluxo. Implemente a função de fatoração usando o algoritmo de Shor da biblioteca do Qiskit ou similar. 
+Com isso, você conseguirá recuperar a chave privada do RSA e, consequentemente, a chave do AES. Tendo acesso a mensagem secreta dos outros grupos. 
 
-Use 
-U
+### • DICA DO CTF
+ 
+Não será tão fácil como importar uma simples função. Você verá a dificuldade de lidar com assuntos do estado da arte. 
+
+
+
