@@ -58,10 +58,12 @@ Junto com seu grupo, combinem uma frase secreta (sem caracteres especiais) que n
 
 ![image](https://github.com/user-attachments/assets/950254f6-fac5-47fa-adc5-202e978a3cb4)
 
-Substitua a frase padrão do trecho do código pela frase escolhida pelo grupo. 
+Substitua a frase padrão do trecho do código do programa Alice_Bob.py pela frase escolhida pelo grupo. 
 
 ### • Canal de Comunicação Simulado
 Iremos utilizar um drive aberto para que cada grupo disponibilize os dados considerados públicos em uma comunicação:
 #### https://drive.google.com/drive/folders/15dsGyEeDWbrR268lTc6S-Et531BGVeLy?usp=sharing
-Crie uma pasta com o nome do seu grupo e dentro dela faça o upload da pasta "public" resultante da execucação do programa "Alice_Bob". 
+Crie uma pasta com o nome do seu grupo e dentro dela faça o upload da pasta "public" resultante da execução do programa "Alice_Bob". 
 Acesse e copie a pasta "public" disponibilizada por cada grupo. 
+
+### 
