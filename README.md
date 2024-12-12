@@ -29,7 +29,13 @@ A ideia básica do ataque consiste em fatorizar _n_ (que é público), dessa for
 
 ## Cenário Reduzido para Quebra
 
-Para fins didáticos, para viabilizar a quebra, essa atividade utiliza 8 bits para _p_ e  8 bits para _q_.
+Para fins didáticos, cada primo _p_ e _q_ é gerado com 8 bits, conforme a chamada padrão da função generate_prime(bits=8).
+
+o tamanho de _n_ será aproximadamente a soma dos tamanhos de _p_ e _q_.
+
+A chave privada é composta por _n_ e _d_. O tamanho de _n_ determina o tamanho da chave RSA, que é de aproximadamente 16 bits nesse caso.
+O valor de _d_ (o expoente da chave privada) é menos previsível em tamanho exato, mas geralmente será de um tamanho comparável ao de 
+_𝜙(n)_ que é um pouco menos de 16 bits neste exemplo.
 
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
