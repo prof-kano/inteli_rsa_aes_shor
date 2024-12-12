@@ -1,7 +1,7 @@
 # MINI CTF - RSA, Quebra e Algoritmo de Shor
 
 ## Introdução
-Este repositório contém os materiais necessários para a execução da atividade prática do dia 11/12/2024 da disciplina optativa de Quantum Safe do Instituto de Tecnologia e Liderança (Inteli).
+Este repositório contém os materiais necessários para a execução da atividade prática do dia 12/12/2024 da disciplina optativa de Quantum Safe do Instituto de Tecnologia e Liderança (Inteli).
 
 ## Ideia Principal do Ataque 
 
