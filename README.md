@@ -20,11 +20,6 @@ Instale a biblioteca de criptografia através da linha da seguinte comando pip n
 ```
 pip install pycryptodome
 ```
-## Breve Revisão RSA
-
-Ser coprimo refere-se a um par de números que tem o maior divisor comum (MDC) igual a 1. Isso significa que esses números não compartilham nenhum divisor maior do que 1. 
-
-
 
 ## Ideia Principal do Ataque 
 
