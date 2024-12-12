@@ -37,5 +37,5 @@ Para fisn didáticos, para viabilizar a quebra, essa atividade utiliza 8 bits pa
 ### • Canal de Comunicação Simulado
 Iremos utilizar um drive aberto para que cada grupo disponibilize os dados considerados públicos em uma comunicação:
 #### https://drive.google.com/drive/folders/15dsGyEeDWbrR268lTc6S-Et531BGVeLy?usp=sharing
-Crie uma pasta com o nome do seu grupo e dentro dela sube a pasta "public" resultante da execucação do programa "Alice_Bob". 
+Crie uma pasta com o nome do seu grupo e dentro dela faça o upload da pasta "public" resultante da execucação do programa "Alice_Bob". 
 Acesse e copie a pasta "public" disponibilizada por cada grupo. 
