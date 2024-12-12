@@ -56,6 +56,9 @@ _𝜙(n)_ que é um pouco menos de 16 bits neste exemplo.
 
 Junto com seu grupo, combinem uma frase secreta (sem caracteres especiais) que não deve ser compartilhada com nenhum outro grupo. 
 
+![image](https://github.com/user-attachments/assets/950254f6-fac5-47fa-adc5-202e978a3cb4)
+
+
 ### • Canal de Comunicação Simulado
 Iremos utilizar um drive aberto para que cada grupo disponibilize os dados considerados públicos em uma comunicação:
 #### https://drive.google.com/drive/folders/15dsGyEeDWbrR268lTc6S-Et531BGVeLy?usp=sharing
