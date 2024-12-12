@@ -54,14 +54,6 @@ _𝜙(n)_ que é um pouco menos de 16 bits neste exemplo.
 
 ## Atividade
 
-### • Análise do Programa Alice_Bob
-
-Realize uma análise preliminar do programa em questão e responda as seguintes perguntas:
-
-- Quais são as principais etapas do programa?
-- Quais são os artefatos gerados?
-- Quais são públicos e quais são privados? 
-
 ### • Mensagem Secreta
 
 Junto com seu grupo, combinem uma frase secreta (sem caracteres especiais) que não deve ser compartilhada com nenhum outro grupo. 
@@ -76,4 +68,9 @@ Iremos utilizar um drive aberto para que cada grupo disponibilize os dados consi
 Crie uma pasta com o nome do seu grupo e dentro dela faça o upload da pasta "public" resultante da execução do programa "Alice_Bob". 
 Acesse e copie a pasta "public" disponibilizada por cada grupo. 
 
-### 
+### • CTF
+
+O programa Carlos.py apresenta uma versão incompleta do ataque descrito na imagem do fluxo. Implemente a função de fatoração usando o algoritmo de Shor da biblioteca do Qiskit.
+
+Use 
+U
