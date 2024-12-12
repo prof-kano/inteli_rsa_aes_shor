@@ -58,6 +58,7 @@ Junto com seu grupo, combinem uma frase secreta (sem caracteres especiais) que n
 
 ![image](https://github.com/user-attachments/assets/950254f6-fac5-47fa-adc5-202e978a3cb4)
 
+Substitua a frase padrão do trecho do código pela frase escolhida pelo grupo. 
 
 ### • Canal de Comunicação Simulado
 Iremos utilizar um drive aberto para que cada grupo disponibilize os dados considerados públicos em uma comunicação:
