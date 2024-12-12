@@ -34,6 +34,8 @@ Para fins didáticos, para viabilizar a quebra, essa atividade utiliza 8 bits pa
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
 
+## Atividade
+
 ### • Mensagem Secreta
 
 Junto com seu grupo, combinem uma frase secreta (sem caracteres especiais) que não deve ser compartilhada com nenhum outro grupo. 
