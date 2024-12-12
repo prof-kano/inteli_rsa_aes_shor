@@ -25,7 +25,7 @@ pip install pycryptodome
 
 O módulo público _n_ é igual a um número primo _p_ vezes um número primo _q_. Se você conhece _p_ e _q_ (e _e_ da chave pública), poderá determinar a chave privada, quebrando assim a criptografia. No entanto, fatorar um _n_ grande é muito difícil sem o uso de um computador quântico potente. Um _n_ pequeno, talvez, possa ser fatorado através do Algoritmo de Shor em um computador quântico disponível agora. Vamos descobrir! 
 
-Conseguindo fatorizanr _n_ (que é público), o atacante pode derivar a chave privada (_d_) dos outros grupos com _p_, _q_, e _e_ através da seguinte relação _d ≡ e^-1 mod Φ(n)_.
+Conseguindo fatorizar _n_ (que é público), o atacante pode derivar a chave privada (_d_) dos outros grupos com _p_, _q_, e _e_ através da seguinte relação _d ≡ e^-1 mod Φ(n)_.
 
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
