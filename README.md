@@ -57,6 +57,14 @@ _𝜙(n)_ que é um pouco menos de 16 bits neste exemplo.
 
 ## Atividade
 
+### • Análise do Programa Alice_Bob
+
+Realize uma análise preliminar do programa em questão e responda as seguintes perguntas:
+
+- Quais são as principais etapas do programa?
+- Quais são os artefatos gerados?
+- Quais são públicos e quais são privados? 
+
 ### • Mensagem Secreta
 
 Junto com seu grupo, combinem uma frase secreta (sem caracteres especiais) que não deve ser compartilhada com nenhum outro grupo. 
