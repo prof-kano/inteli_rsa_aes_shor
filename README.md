@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=mAHC1dWKNYE&list=PLkzEMll7nz0WNdePloNqT0YkGIO7iQ
  
 Não será tão fácil como importar uma simples função. Você verá a dificuldade de lidar com assuntos do estado da arte. 
 
-### • INTERVALO DIFICULDADES ENCONTRADAS
+### • INTERVALO DISCUSSÃO DE DIFICULDADES ENCONTRADAS
 
 ### • OPORTUNIDADE DE FAZER A DIFERENÇA
 
