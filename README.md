@@ -29,7 +29,7 @@ A ideia básica do ataque consiste em fatorizar _n_ (que é público), dessa for
 
 ## Cenário Reduzido para Quebra
 
-Para fisn didáticos, para viabilizar a quebra, essa atividade utiliza 8 bits para _p_ e  8 bits para _q_.
+Para fins didáticos, para viabilizar a quebra, essa atividade utiliza 8 bits para _p_ e  8 bits para _q_.
 
 ## Fluxo da Dinâmica
 ![alice bob carlos drawio](https://github.com/user-attachments/assets/b656db96-39d7-4428-859f-ce014e5995da)
